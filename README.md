@@ -13,17 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zluvsand)
 -->
 
 
-![Chirag's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Chirag0243)
+![Yash's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=yashthummar88)
 
 
 
-![Chirag's Github stats](https://github-readme-stats.vercel.app/api?username=chirag0243&show_icons=true&&theme=vue-dark&Ring=58DD97)
+![Yash's Github stats](https://github-readme-stats.vercel.app/api?username=yashthummar88&show_icons=true&&theme=vue-dark&Ring=58DD97)
 </br></br>
-![Total contributions and streaks](https://github-readme-streak-stats.herokuapp.com/?user=dhruvkelawala&theme=vue-dark)
+![Total contributions and streaks](https://github-readme-streak-stats.herokuapp.com/?user=yashthummar88&theme=vue-dark)
 </br></br>
-![Chirag's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=dhruvkelawala&layout=compact&theme=vue-dark)
+![Yash's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=yashthummar88&layout=compact&theme=vue-dark)
 </br></br>
-[![](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zluvsand)
+
